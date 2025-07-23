@@ -1,0 +1,125 @@
+commit 71bbd571c8dbe030afd3bb5515ba8820d2cca866
+Author: Jenna <jennar2505@gmail.com>
+Date:   Wed May 21 12:20:17 2025 +0200
+
+    scenario 3 changed to allow user input for stochastic action
+
+commit 9067631d8f230958878b1a80d31b038b2021fb96
+Author: Jenna <jennar2505@gmail.com>
+Date:   Wed May 21 12:19:36 2025 +0200
+
+    scenario 2 changed to allow user input for stochastic action
+
+commit b64abe4f7b05513aa35140aed599686b26af0027
+Author: Jenna <jennar2505@gmail.com>
+Date:   Wed May 21 12:18:33 2025 +0200
+
+    Scenario 1 changed to allow user input for stochastic action
+
+commit 4f94061bdb7ea37c320910ed41320b60ee1906a2
+Author: Jenna <jennar2505@gmail.com>
+Date:   Wed May 21 12:03:01 2025 +0200
+
+    error fixed, correct imports
+
+commit c2cbef3f918b7f2d5339f9da5b41307f2ca727e4
+Author: Jenna <jennar2505@gmail.com>
+Date:   Wed May 21 12:02:00 2025 +0200
+
+    scenario 3 updated to collect packages in correct order or terminate epoch
+
+commit 9953c594cb28e2144ff8d11b7697b029ba739b90
+Author: Jenna <jennar2505@gmail.com>
+Date:   Wed May 21 08:29:34 2025 +0200
+
+    scenario 2 code copied across to scenario 3
+
+commit 83e933693e9717ad511f741df70bb1ec80bcc095
+Author: Jenna <jennar2505@gmail.com>
+Date:   Wed May 21 08:28:24 2025 +0200
+
+    initial setup of scenario 3 to make object of fourRooms with rgb type
+
+commit 472d1aedfb43bf1006bde5f34fdcf7fb6cffc19b
+Author: Jenna <jennar2505@gmail.com>
+Date:   Wed May 21 08:27:37 2025 +0200
+
+    scenario 2 correctly implements collecting the 3 packages
+
+commit 58d9e8c976f47a7821c6b917ddb373a8929ecb16
+Author: Jenna <jennar2505@gmail.com>
+Date:   Tue May 20 14:58:13 2025 +0200
+
+    updated convert and q values to incorporate the number of packages left
+
+commit 5b2215a3e39673a69d022fda86d653fa865b0c48
+Author: Jenna <jennar2505@gmail.com>
+Date:   Mon May 19 16:00:29 2025 +0200
+
+    scenario 1 code copied across, changed type to multi instead of simple
+
+commit 62fa9932af25925130876e201783cf6e18399aed
+Author: Jenna <jennar2505@gmail.com>
+Date:   Mon May 19 15:23:46 2025 +0200
+
+    print path
+
+commit b1e05a2d7e5509b2a7813241389b90e389f13224
+Author: Jenna <jennar2505@gmail.com>
+Date:   Mon May 19 15:23:27 2025 +0200
+
+    get metrics and add to array, clear current metrics for next episode and print out metrics
+
+commit de97fe672222313b90d46b68c53c2bc352ff9be8
+Author: Jenna <jennar2505@gmail.com>
+Date:   Mon May 19 15:22:40 2025 +0200
+
+    update q values using q learning rule
+
+commit f653fc213d82ac12a655c21be2badda9652e2289
+Author: Jenna <jennar2505@gmail.com>
+Date:   Mon May 19 15:21:56 2025 +0200
+
+    take an action and based on the result get a reward function, tallied for total reward
+
+commit e5261c6c9e3b9b274b3ca91753eb71cbc98ec11a
+Author: Jenna <jennar2505@gmail.com>
+Date:   Mon May 19 15:20:46 2025 +0200
+
+    both random and epsilon greedy code added, one commented out to make sure it runs
+
+commit 801622cf6f41507c461687391df7c74c27dffeb7
+Author: Jenna <jennar2505@gmail.com>
+Date:   Mon May 19 15:19:59 2025 +0200
+
+    training loop added to loop through each eepisode and start a new epoch
+
+commit 6d343f5f956d7ea6a064ea7288e705a5e74208cc
+Author: Jenna <jennar2505@gmail.com>
+Date:   Mon May 19 15:16:59 2025 +0200
+
+    added variables to test metrics of each exploration strategdy
+
+commit 0d7404ea1b25927b269389cdd3037d9c41f08817
+Author: Jenna <jennar2505@gmail.com>
+Date:   Mon May 19 15:16:03 2025 +0200
+
+    all hyperpparameters, action list and q values added
+
+commit 5cfd740fdd3051d12390f4d7b32c6ac7ab06f024
+Author: Jenna <jennar2505@gmail.com>
+Date:   Mon May 19 15:15:17 2025 +0200
+
+    add dimensions and methods to change coordinates to array positions
+
+commit ae29ddf555f7285183cbdaacfee97df7490f8077
+Author: Jenna <jennar2505@gmail.com>
+Date:   Mon May 19 15:14:20 2025 +0200
+
+    scen1 imports fourRooms and makes an object
+
+commit b34f8f8f479da8e1cc76b562c14ca1eabe869ac6
+Author: Jenna <jennar2505@gmail.com>
+Date:   Sat May 17 15:22:02 2025 +0200
+
+    all scenario files created
