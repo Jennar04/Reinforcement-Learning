@@ -27,31 +27,8 @@ Scenario3.py:
 	It is tested under deterministic by default, to make stochastic run:
 			python Scenario3.py -stochastic
 
-
-Images (folder):
-
-	Folder containing the output images for each scenario. Each image is named under the following format:
-	[ScenarioNumber]-[Random/Epsilon/Neither(blank)]-[Stochastic/Deterministic].png
-
-
-venv (folder):
-
-	A folder needed for running in a virtual environment.
-	I am not sure if this is needed by the marker but it is required for the code to run on my machine. 
-
-
 log.txt:
 
 	Git repository commits in a text file.
-
-
-Requirements.txt:
-
-	Required packages to run the code.
-
-
-Scenario1-Report.pdf:
-
-	Report explaining the differences between the Random and Epsilon-Greedy Exploration Techniques for Scenario 1.
 
 	
